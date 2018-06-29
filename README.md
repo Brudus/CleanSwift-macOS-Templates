@@ -11,12 +11,12 @@ These are a couple of Clean Swift macOS templates for Xcode. They are a modifica
 
 ## Added features:
 * macOS X support.
-	* The template will be visible in the macOS section when creating new files.
-	* This template is compatible with other Clean Swift iOS templates, so you will not remove them by installing these templates.
+	* The templates will be visible in the macOS section when creating new files.
+	* These templates are compatible with other Clean Swift iOS templates, so you will not remove them by installing these templates.
 	* UIViewController is changed to NSViewController. UIKit to Cocoa, etc.
 * Added a convenient snippet to create use cases.
 	* This was copied from HelmMobile (https://github.com/HelmMobile/clean-swift-templates).
-	* The initial use case struct was changed to an enum.
+	* The use case struct was changed to an enum.
 
 ## How to use the templates
 
